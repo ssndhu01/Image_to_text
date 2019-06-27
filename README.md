@@ -7,3 +7,4 @@ Requirements:
       * PIL (Python Imaging Library)
       * pytesseract
       * Open-CV
+# Note : (For Windows) Add tesseract-ocr.exe to your System Variable "Path"
