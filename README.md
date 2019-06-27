@@ -3,7 +3,7 @@ Natural Language Processing is a great field in the digital world.This project h
  
 Requirements:
    * Tesseract-OCR <https://github.com/tesseract-ocr/tesseract/wiki>
-   * Ptython 3.x
+   * Python 3.x
       * PIL (Python Imaging Library)
       * pytesseract
       * Open-CV
